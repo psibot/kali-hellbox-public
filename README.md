@@ -39,8 +39,8 @@ https://github.com/ansible/ansible.git
 
 Tested on Kali.
 
-* **kali**: ```# git clone https://github.com/psibot/r3dT3am-kali.git  ```
-* **kali**: ```# cd r3dT3am-kali  ```
+* **kali**: ```# git clone https://github.com/psibot/kali-hellbox-public.git  ```
+* **kali**: ```# cd kali-hellbox-public  ```
 
 In folder installers run 
 * **kali**: ```# chmod 770 *.sh   ```

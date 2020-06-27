@@ -5,6 +5,8 @@ Kali Setup for a BOX from HELL
 
 Please use only for testing !!! ...yeah right.
 
+THIS IS A POC so I am still building it!!!
+
 Thanks for ALL the guys that made this install possible Redteam and the Guys AT Hak5 ... your vids keeps me going.
 
 Please support >>> 
